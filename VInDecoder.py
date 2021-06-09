@@ -22,6 +22,7 @@ st.title("""
         
 ##pytesseract.pytesseract.tesseract_cmd = 'C:\\Users\\rahulbhatt\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
 ##pytesseract.pytesseract.tesseract_cmd = ‘/app/.apt/usr/bin/tesseract’
+pytesseract.pytesseract.tesseract_cmd = ./.apt/usr/share/tesseract-ocr/4.00/tessdata
 
 file = st.file_uploader("Please upload an image of the relevant category", type=["jpg", "png","JPEG"])
 
