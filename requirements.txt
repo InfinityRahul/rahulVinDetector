@@ -3,5 +3,5 @@ numpy==1.19.5
 opencv_python==4.5.2.54
 Image==1.5.33
 Pillow==8.2.0
-streamlit==0.82.0
+streamlit==0.76.0
 vininfo==1.5.0
